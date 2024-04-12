@@ -9,7 +9,7 @@ This project focuses on forecasting a non-stationary time series dataset. I used
 2) Normalize and stabilize variance through data transformations.
 3) Achieve stationarity with differencing.
 4) Select the best ARIMA model based on statistical criteria.
-5)Use the model to forecast future values and evaluate its accuracy.
+5) Use the model to forecast future values and evaluate its accuracy.
 
 # Steps
 1) Statistical Tests: Used Engle's ARCH test for variance and the Augmented Dickey-Fuller test for stationarity.
