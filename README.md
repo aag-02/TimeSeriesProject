@@ -2,7 +2,7 @@
 
 
 # Overview
-This project focuses on forecasting a non-stationary time series dataset. I used Python's Statsmodels and Pandas to handle statistical tests, data transformation, and model selection.
+This project focuses on forecasting a non-stationary time series dataset. I used Python's Statsmodels and Pandas to handle statistical tests, data transformation, and model selection. This was a solo project for STA 137, Time Series Analysis.
 
 # Goals
 1) Identify non-constant variance and check for stationarity.
